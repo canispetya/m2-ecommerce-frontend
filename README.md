@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # M2 — E-commerce Frontend
 
 ## Descripción
@@ -104,3 +105,7 @@ git add .
 git commit -m "mensaje"
 git status
 ```
+=======
+# m2-ecommerce-frontend
+E-Commerce Máscaras de Cartón
+>>>>>>> 46233a795d801bb54150123eacf0a4975e295dfd
